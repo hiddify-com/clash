@@ -1,6 +1,8 @@
 # Clash
 # Wiki: https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers
 payload:
+  - DOMAIN,IR
+  - DOMAIN-SUFFIX,.ir
   - DOMAIN-SUFFIX,0192.dpdonya.com
   - DOMAIN-SUFFIX,01co.net
   - DOMAIN-SUFFIX,09629.info
