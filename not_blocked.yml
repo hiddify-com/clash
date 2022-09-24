@@ -1,0 +1,16 @@
+# Clash
+# Wiki: https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers
+payload:
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,microsoft.com	
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,gtx.ms
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,gstatic.com
+  
